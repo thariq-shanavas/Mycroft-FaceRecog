@@ -17,11 +17,11 @@ For any sort of face recognition, there are usually three distinct phases -
 MJRoBot does a better job of explaining #1 and #2 than I ever could - https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
 
 You might want to customise the names and indiviual briefings using
-'nano face_recognition.py'
+`nano face_recognition.py`
 The comments should guide you through, provided you have a basic familiarity with python.
 
 Once you have the trained model to recognise faces, run 
-'python face_recognition.py'
+`python face_recognition.py`
 
 Psst. You probably know this already, but if you're running the RPi using ssh, you might want to use 'screen' to open a terminal that keeps running even when the ssh connection is closed - https://linuxize.com/post/how-to-use-linux-screen/
 
