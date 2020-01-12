@@ -2,9 +2,9 @@
 Automating an open source voice assistant to recognise faces and give personalised briefings. (Weather, News, etc.)
 
 # Hardware
-Raspberry Pi 3b ($35)
-PS3 Eye Camera ($7)
-Off-the-shelf speaker with a 3.5mm jack.
+* Raspberry Pi 3b ($35)
+* PS3 Eye Camera ($7)
+* Off-the-shelf speaker with a 3.5mm jack.
 
 The easiest way to get started with Mycroft is to use the picroft image - https://mycroft.ai/get-started/
 Using a pip installation of OpenCV, you can usually get most features you need without the full installation which takes to the tune of two hours - https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/
