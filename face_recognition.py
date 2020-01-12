@@ -46,7 +46,7 @@ while True:
 
     now = datetime.datetime.now()
     t = now.hour
-	# Morning briefing
+    # Morning briefing
     if (t>6 and t<12):
         ret, img =cam.read()
         #img = cv2.flip(img, -1) # In case your camera is flipped for some reason, uncomment this
@@ -79,6 +79,7 @@ while True:
             else:
                     id = "unknown"
                     confidence = "  {0}%".format(round(100 - confidence))
+    # evening briefing
     elif (t>14):
 
         ret, img =cam.read()
