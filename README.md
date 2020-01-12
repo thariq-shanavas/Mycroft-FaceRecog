@@ -1,5 +1,6 @@
 # Mycroft-FaceRecog
 Automating an open source voice assistant to recognise faces and give personalised briefings. (Weather, News, etc.)
+Demo: https://www.youtube.com/watch?v=KHHCviwfhes
 
 # Hardware
 * Raspberry Pi 3b ($35)
