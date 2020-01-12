@@ -1,4 +1,4 @@
-# Mycroft-FaceRecog
+# Mycroft Face Recognition Voice Assistant
 Automating an open source voice assistant to recognise faces and give personalised briefings. (Weather, News, etc.)
 Demo: https://www.youtube.com/watch?v=KHHCviwfhes
 
