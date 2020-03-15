@@ -2,8 +2,11 @@
 Automating an open source voice assistant to recognise faces and give personalised briefings. (Weather, News, etc.)
 Demo: https://www.youtube.com/watch?v=KHHCviwfhes
 
+The software greets me by the name the first time it sees me in the morning, and gives me weather updates.
+Another similar greeting when it sees me the first time in the evening. The code activates at most two times a day.
+
 # Hardware
-* Raspberry Pi 3b ($35)
+* Slightly overclocked Raspberry Pi 3b ($35)
 * PS3 Eye Camera ($7)
 * Off-the-shelf speaker with a 3.5mm jack.
 
@@ -16,6 +19,8 @@ For any sort of face recognition, there are usually three distinct phases -
 * Face Recognition
 
 MJRoBot does a better job of explaining #1 and #2 than I ever could - https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826
+
+You'll need to run their code to collect facial data and to generate trained models.
 
 You might want to customise the names and indiviual briefings using
 `nano face_recognition.py`
