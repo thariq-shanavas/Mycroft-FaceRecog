@@ -19,7 +19,7 @@ MJRoBot does a better job of explaining #1 and #2 than I ever could - https://ww
 
 You might want to customise the names and indiviual briefings using
 `nano face_recognition.py`
-The comments should guide you through, provided you have a basic familiarity with python.
+The comments should guide you through.
 
 Once you have the trained model to recognise faces, run 
 `python face_recognition.py`
