@@ -3,7 +3,7 @@ Automating an open source voice assistant to recognise faces and give personalis
 Demo: https://www.youtube.com/watch?v=KHHCviwfhes
 
 The software greets me by the name the first time it sees me in the morning, and gives me weather updates.
-Another similar greeting when it sees me the first time in the evening. The code activates at most two times a day.
+Another similar greeting in the evening. The code activates at most two times a day.
 
 # Hardware
 * Slightly overclocked Raspberry Pi 3b ($35)
